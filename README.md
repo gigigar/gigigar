@@ -1,6 +1,6 @@
-### Hi, I'm Regina (Gigi) Garcia
+### Hi, I'm Regina.
 
-Software engineer in Quezon City, Philippines · B.S. Computer Science, Ateneo de Manila University (2026)
+Software engineer in the Philippines · B.S. Computer Science, Ateneo de Manila University (2026)
 
 - 🔨 **Starting now:** an order management system for a jewelry business. Next.js, TypeScript, PostgreSQL.
 - 🧭 **Heading toward:** full-stack development and applied ML / computer vision.
