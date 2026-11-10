@@ -1,6 +1,6 @@
 ### Hi, I'm Regina.
 
-Software engineer in the Philippines · B.S. Computer Science, Ateneo de Manila University (2026)
+B.S. Computer Science, Ateneo de Manila University (2026) · Based in the Philippines
 
 - 🔨 **Now building:** [an order management system](https://github.com/gigigar/order-management-system) for a jewelry business. Next.js, TypeScript, PostgreSQL, with CI on GitHub Actions.
 - 🧭 **Heading toward:** full-stack development, with AI engineering as my specialty.
